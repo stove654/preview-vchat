@@ -1,0 +1,22 @@
+{
+  "main": "index.html",
+  "name": "vchat",
+  "description": "vchat",
+  "version": "0.1.0",
+  "keywords": [
+    "vchat"
+  ],
+  "window": {
+    "title": "vchat",
+    "toolbar": false,
+    "frame": true,
+    "width": 1160,
+    "height": 640,
+    "position": "center",
+    "min_width": 1160,
+    "min_height": 640
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}
